@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mucycle-kel4/static/css/main.8116efa7.css",
+    "main.js": "/mucycle-kel4/static/js/main.9f9da5f4.js",
+    "static/js/453.c3ea5f12.chunk.js": "/mucycle-kel4/static/js/453.c3ea5f12.chunk.js",
+    "static/media/Produk1.jpg": "/mucycle-kel4/static/media/Produk1.2b12b30a316483ecd2a1.jpg",
+    "static/media/Produk2.jpg": "/mucycle-kel4/static/media/Produk2.9974d29186b7d79c40b9.jpg",
+    "static/media/Keychain.jpg": "/mucycle-kel4/static/media/Keychain.dc8780faa035e4833146.jpg",
+    "static/media/Earrinngs.jpg": "/mucycle-kel4/static/media/Earrinngs.cf63ed8699b5e5bc4c0c.jpg",
+    "static/media/Bracelet.jpg": "/mucycle-kel4/static/media/Bracelet.570d3f3af85d395f25c5.jpg",
+    "index.html": "/mucycle-kel4/index.html",
+    "main.8116efa7.css.map": "/mucycle-kel4/static/css/main.8116efa7.css.map",
+    "main.9f9da5f4.js.map": "/mucycle-kel4/static/js/main.9f9da5f4.js.map",
+    "453.c3ea5f12.chunk.js.map": "/mucycle-kel4/static/js/453.c3ea5f12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8116efa7.css",
+    "static/js/main.9f9da5f4.js"
+  ]
+}
